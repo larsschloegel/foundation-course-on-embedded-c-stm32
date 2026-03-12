@@ -1,0 +1,38 @@
+!SESSION 2026-03-10 09:11:10.997 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=de_DE
+Framework arguments:  -keyring /Users/lschloegel/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/lschloegel/.eclipse_keyring -data /Users/lschloegel/coding/external/foundation-course-on-embedded-c-programming-using-stm32-microcontroller/My_workspace/host
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 4 4 2026-03-10 09:11:19.764
+!MESSAGE CubeMX plugin appears to be active, Log4j initialization might be too late.
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-03-10 09:11:19.766
+!MESSAGE Log4j2 initialized with config file /Users/lschloegel/coding/external/foundation-course-on-embedded-c-programming-using-stm32-microcontroller/My_workspace/host/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-03-10 09:11:23.460
+!MESSAGE Started RMI Server, listening on port 41339
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2026-03-10 09:11:23.464
+!MESSAGE ProjectImporter: mdfind -name lsregister didn't returned anything
+!SESSION 2026-03-11 19:31:08.815 -----------------------------------------------
+eclipse.buildId=Version 1.19.0
+java.version=21.0.3
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=macosx, ARCH=x86_64, WS=cocoa, NL=de_DE
+Framework arguments:  -keyring /Users/lschloegel/.eclipse_keyring
+Command-line arguments:  -os macosx -ws cocoa -arch x86_64 -keyring /Users/lschloegel/.eclipse_keyring -data /Users/lschloegel/coding/external/foundation-course-on-embedded-c-programming-using-stm32-microcontroller/My_workspace/host
+
+!ENTRY com.st.stm32cube.ide.mcu.informationcenter 1 1 2026-03-11 19:31:17.087
+!MESSAGE Log4j2 initialized with config file /Users/lschloegel/coding/external/foundation-course-on-embedded-c-programming-using-stm32-microcontroller/My_workspace/host/.metadata/.log4j2.xml
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 1 1 2026-03-11 19:31:23.164
+!MESSAGE Started RMI Server, listening on port 41341
+
+!ENTRY com.st.stm32cube.ide.mcu.ide 4 4 2026-03-11 19:31:23.208
+!MESSAGE ProjectImporter: mdfind -name lsregister didn't returned anything
+
+!ENTRY org.eclipse.cdt.core 1 0 2026-03-11 19:32:32.924
+!MESSAGE Indexed '000TestProject' (0 sources, 0 headers) in 0.003 sec: 0 declarations; 0 references; 0 unresolved inclusions; 0 syntax errors; 0 unresolved names (0%)
