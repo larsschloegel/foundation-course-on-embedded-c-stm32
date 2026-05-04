@@ -1,0 +1,3 @@
+- Variablen lassen den Compiler wissen, dass Speicher reserviert werden soll
+- Kompiler reserviert bei Char 1 byte, bei int 4 bytes
+- Manche Kompiler haben Probleme mit Namen größer als 30 Zeichen
