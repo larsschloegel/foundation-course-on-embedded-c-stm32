@@ -1,0 +1,4 @@
+- Variablen Scope
+    - Local scope
+    - global scope
+    - local scope > global scope wenn beide definiert sind
